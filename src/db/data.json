@@ -1,0 +1,71 @@
+{
+    "articles": [
+    {
+        "id": "1",
+        "title": "Making a Realistic Glass Effect with SVG",
+        "shortDescription": "Your designers can rest easy knowing they don't have to reproduce an effect for every article or product on your site.",
+        "smallImage": "https://i.pcmag.com/imagery/reviews/07LLQWrr7cxOWl7ebgWvNe7-17..v_1574731215.jpg",
+        "rating": 3.75,
+        "ratingCount": 14
+    }, 
+    {
+        "id": "2",
+        "title": "Frontend design, react, and a bridge over the great divide",
+        "shortDescription": "Frontend designers create the HTML, CSS, and presentational JavaScript code that powers web products’ user interfaces. I see frontend design as helpful mortar that bridges the gap between design and development.",
+        "smallImage": "https://images-na.ssl-images-amazon.com/images/I/81YUHsnzj1L._AC_SY355_.jpg",
+        "rating": 2.75,
+        "ratingCount": 18
+    },
+    {
+        "id": "3",
+        "title": "How to sync props to state properly in React Hooks",
+        "shortDescription": "Its a simple component which accepts props. We pass this props as initialState to useState.Now, what will happen if the props get changed and does the state get changed and re-render?",
+        "smallImage": "https://i.insider.com/5c9b83d5ee52ef14e01ed949?width=1100&format=jpeg&auto=webp",
+        "rating": 3.35,
+        "ratingCount": 33
+    },
+    {
+        "id": "4",
+        "title": "Frontend vs Backend",
+        "shortDescription": "Frontend is about perception. When we build Frontend things, we care a lot about how users perceive what we built. We spend an ungodly amount of time asking these questions (so much that countless jobs were created for each of them).",
+        "smallImage": "https://c.s-microsoft.com/en-us/CMSImages/1920_Panel1_Hero_Desktop.jpg?version=e7d0925b-ff2a-6710-645d-8b37f62d4b29",
+        "rating": 4.85,
+        "ratingCount": 109
+    },
+    {
+        "id": "5",
+        "title": "Using Prettier with Airbnb's ESLint config",
+        "shortDescription": "What is Prettier and Airbnb’s ESlint configuration. Airbnb ESLint configuration is one of the most used ESLint configuration and Prettier is an opinionated code formatter with a handful options.",
+        "smallImage": "https://www.libm.co.uk/wp-content/uploads/2018/06/210-Computer-Programming-Diploma-Level-3.jpg",
+        "rating": 2.08,
+        "ratingCount": 9
+    }
+  ],
+  "fullArticles": [
+    {
+        "id": 1,
+        "content": "Content for article 1",
+        "bigImage": ""
+    },
+    {
+        "id": 2,
+        "content": "Content for article 2",
+        "bigImage": ""
+    },
+    {
+        "id": 3,
+        "content": "Content for article 3",
+        "bigImage": ""
+    },
+    {
+        "id": 4,
+        "content": "Content for article 4",
+        "bigImage": ""
+    },
+    {
+        "id": 5,
+        "content": "Content for article 5",
+        "bigImage": ""
+    }
+  ]
+}
